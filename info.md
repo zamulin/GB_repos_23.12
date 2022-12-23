@@ -39,9 +39,6 @@
 
 <br><br>
 
-
-
-
 ### Registraton GitHub:
 **1.** Go to [GitHub](https://github.com) - remote repository. Service;<br>
 **2.** Click on the button **"Sign UP"** to go to the registration window;<br>
