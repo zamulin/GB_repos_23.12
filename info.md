@@ -81,6 +81,14 @@
 
 ----
 
+## Remote repository  <br> В случае ошибки
+
+| name <br> наименование | description <br> описание | 
+|----|----|
+|**git clone** | copy remote repository in local repo <br> копирует удаленный репозиторий в локальный
+|**git pull** | get all files from repository <br> получить все что есть в репозитории
+|**git push** | pushed all changes in remote <br> отправляет все изменения в удаленный репозиторий 
+
 | | contacts |
 |:----|:----:|
 | **𝖒𝖎𝖘𝖙𝖊𝖗𝖆𝖇𝖛𝖎𝖗**|  [![My contacts](https://sun6-21.userapi.com/s/v1/if2/0S7UHRKGkZD-lwCxqbHfYmH2JLqnZi3AA1U6b-ZuI13Z8_Zw04x59-6In1tAv3KwQxdb_QUmWwOvj9jBcAmJ4gCT.jpg?size=50x50&quality=96&crop=117,32,256,256&ava=1 "my public social profile")](https://vk.com/misterabvir)[![My contacts](https://sun6-23.userapi.com/s/v1/if1/KeJiiYmL9jFeNvZlRpjEL04jZdsNNA1UjdWln0TdojSedE46q4i2zHwGZB5pY7NZ-JhTSLGr.jpg?size=50x50&quality=96&crop=79,46,410,410&ava=1 "my public contact")](https://t.me/misterabvir)[![My contacts](https://sun6-22.userapi.com/s/v1/ig2/T0-UcGeC5o4VKR3S828eHVzXZRFUMkwt501jwAQoBF4e6cr1Uw-VFioGpNerbBwDFkfe43yWpSnA0kX4VJ83s01j.jpg?size=50x50&quality=95&crop=183,183,655,655&ava=1 "my geekbrains profile")](https://gb.ru/users/8831713)[![My contacts](https://sun6-20.userapi.com/s/v1/ig2/HLuYMTeO-rJPPa9IngY11r1qXLvapXaDWnxglTerVrh5pBGRxtqpP4dLiZQCkxNp4DR4QPKSLMIoFxXPJ07YfPQK.jpg?size=50x50&quality=96&crop=323,55,551,551&ava=1 "my public github repository")](https://github.com/misterabvir)[![My contacts](https://sun6-22.userapi.com/s/v1/if1/_ca-hwLexTXVs_DY72z9CLtRilIyeAmYL8lgqThNhySiW6ynGpmb4lKAKiDq5AxUBPoRHezJ.jpg?size=50x50&quality=96&crop=0,0,200,200&ava=1 "my email")](mailto:abvir@yandex.ru)
