@@ -81,7 +81,7 @@
 
 ----
 
-## Remote repository  <br> В случае ошибки
+## Remote repository  <br> Удаленный репозиторий
 
 | name <br> наименование | description <br> описание | 
 |----|----|
